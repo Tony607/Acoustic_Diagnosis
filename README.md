@@ -2,6 +2,9 @@
 The repo contains the trainig data located in the data folder and a jupyter notebook for the tutorial.
 
 You may also read my [write up](https://www.dlology.com/blog/try-this-model-to-quickly-tell-if-it-is-a-faulty-motor-by-listening/) for more detail.
+## Updates
+10/24/2017
+You might also be interested in using MFCC feature as input to imporve audio classifier accuracy, read my write up [here](https://www.dlology.com/blog/one-simple-trick-to-improve-the-motor-acoustic-classifier/).
 
 Tested with Python 3.5
 ## Dependencies
