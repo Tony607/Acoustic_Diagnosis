@@ -14,8 +14,8 @@ Run the python notebook by cd into the directory in command line then run
 ```
 jupyter notebook
 ```
-choose this in the browser
-
-**Acoustic_TF_LSTM.ipynb**
+Select either of those in the browser
+**Acoustic_TF_LSTM_MFCC.ipynb** model input is MFCCs
+**Acoustic_TF_LSTM.ipynb** model input is audio time series
 
 Enjoy, leave a comment in my [blog post](https://www.dlology.com/blog/try-this-model-to-quickly-tell-if-it-is-a-faulty-motor-by-listening/) if you have any question.
